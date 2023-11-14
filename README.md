@@ -1,3 +1,3 @@
 # incomeAPI
 
-Model API tht users can come and record their expenses
+Model API that users can come and record their expenses
